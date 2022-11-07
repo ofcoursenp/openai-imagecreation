@@ -14,7 +14,7 @@ if sizeinput == 1:
 elif sizeinput == 2:
     size = '512x512'
 elif sizeinput == 3:
-    size = '56x256'
+    size = '256x256'
 
 if sizeinput < 1 and sizeinput > 3:
     print("Wrong number quiting the program...")
